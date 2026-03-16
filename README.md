@@ -25,7 +25,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 ## Repository Structure
 
-**analysis.ipynb**  
+**data_cleaning.ipynb** and **business_insights**  
 Jupyter notebook containing the full workflow of the analysis, including data exploration, RFM calculation, and customer segmentation.
 
 **functions.py**  
